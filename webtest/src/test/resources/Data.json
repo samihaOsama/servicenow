@@ -1,0 +1,45 @@
+{
+	"loginAdmin": {
+		"userName": "admin",
+		"password": "admin"
+	},
+
+	"fakeUser": {
+		"userName": "fakeUser",
+		"password": "password"
+	},
+
+	"R_wrong-login": {
+		"login": "kk!!",
+		"email": "user@localhost",
+		"password" : "password",
+		"confirm-password" : "password"
+	},
+	
+	"R_wrong-email": {
+		"login": "kkkk",
+		"email": "user_localhost",
+		"password" : "password",
+		"confirm-password" : "password"
+	},
+
+	"R_wrong-password": {
+		"login": "kkkk",
+		"email": "user_localhost",
+		"password" : "pass",
+		"confirm-password" : "password"
+	},
+
+	"R_short-password": {
+		"login": "kkkk",
+		"email": "user_localhost",
+		"password" : "pass",
+		"confirm-password" : "pass"
+	},
+	"Branch_one":{
+		"name" : "branch 1",
+		"code" : "BB1"
+	}
+
+
+}

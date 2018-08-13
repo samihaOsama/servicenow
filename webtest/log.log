@@ -1,0 +1,10 @@
+2018-08-08 23:17:55,230 | INFO  | main | Starting to intialise driver
+2018-08-08 23:17:55,231 | INFO  | main | OS environment: Mac OS X
+2018-08-08 23:17:55,231 | INFO  | main | Browser: firefox
+2018-08-08 23:17:57,657 | INFO  | main | Driver initialised successfully
+2018-08-08 23:17:58,057 | INFO  | main | Opening URl: http://127.0.0.1:8080/#/
+2018-08-08 23:17:58,106 | INFO  | main | Data is initialized successfully
+2018-08-08 23:17:58,124 | INFO  | main | Test login with: admin admin
+2018-08-08 23:17:58,679 | INFO  | main | Test Passed successfully
+2018-08-08 23:18:59,074 | INFO  | main | Test Passed successfully
+2018-08-08 23:18:59,727 | INFO  | main | Closing driver
